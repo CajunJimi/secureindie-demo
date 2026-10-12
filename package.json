@@ -1,0 +1,9 @@
+{
+  "name": "notely-demo",
+  "private": true,
+  "description": "Intentionally vulnerable demo app for SecureIndie's sample report. Do not copy.",
+  "dependencies": {
+    "@supabase/supabase-js": "2.45.0",
+    "lodash": "4.17.15"
+  }
+}
